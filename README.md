@@ -1,7 +1,7 @@
  Hola, I'm Samyak Jain! 👋
 
-- 🔭 I’m currently working on Attendance App
-- 🌱 I’m currently learning Angularjs
+- 🔭 I’m currently working as Python Developer
+- 🌱 I’m currently learning Data Structures, Check my Public Repository on Data Structures. 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Enjoying Everything..!
 
